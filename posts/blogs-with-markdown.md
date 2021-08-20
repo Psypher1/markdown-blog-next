@@ -2,7 +2,7 @@
 title: "Blogs with Markdown"
 date: "August 20, 2021"
 excerpt: "Blogs are buildable in many ways"
-cover_img: "/images/posts/img1.jpg"
+cover_image: "/images/posts/img1.jpg"
 ---
 
 ## What is Data Science?
