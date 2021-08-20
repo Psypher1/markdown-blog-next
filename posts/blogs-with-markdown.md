@@ -1,8 +1,10 @@
 ---
-title: "Blogs with Markdown"
+title: "Data Science: An Intro"
 date: "August 20, 2021"
-excerpt: "Blogs are buildable in many ways"
+excerpt: "The goal of data science is to gain insights and knowledge from any type of data, be it structured and unstructured."
 cover_image: "/images/posts/img1.jpg"
+---
+
 ---
 
 ## What is Data Science?
