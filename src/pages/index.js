@@ -4,7 +4,7 @@ import path from "path";
 import matter from "gray-matter";
 import Head from "next/head";
 
-import Post from "../components/Post";
+import { Post } from "../components/Post";
 
 export default function Home({ posts }) {
   // console.log(posts);

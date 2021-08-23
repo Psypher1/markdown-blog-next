@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 
-export default function Post({ post }) {
+export const Post = ({ post }) => {
   return (
     <div className="card">
       <img src={post.frontmatter.cover_image} alt="" />
@@ -14,4 +14,4 @@ export default function Post({ post }) {
       </Link>
     </div>
   );
-}
+};
